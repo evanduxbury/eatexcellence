@@ -229,7 +229,7 @@ export default function Home() {
           </a>
 
           <a
-            href="#contact"
+            href="/book"
             className="rounded-full bg-[#0F6B63] px-4 py-2 text-sm font-bold text-white transition hover:bg-[#0B554F]"
           >
             Book a Call
@@ -351,7 +351,7 @@ export default function Home() {
           </p>
 
           <a
-            href="#contact"
+            href="/book"
             className="mt-7 inline-flex rounded-full bg-[#0F6B63] px-7 py-3.5 text-sm font-bold text-white transition hover:scale-[1.02] hover:bg-[#0B554F]"
           >
             Book a Call
@@ -436,7 +436,7 @@ export default function Home() {
 
           <div className="mt-8 text-center">
             <a
-              href="#contact"
+              href="/book"
               className="inline-flex rounded-full bg-[#0F6B63] px-7 py-4 font-bold text-white transition hover:scale-[1.02] hover:bg-[#0B554F]"
             >
               Book a Call
@@ -639,7 +639,7 @@ export default function Home() {
           </p>
 
           <a
-            href="mailto:hello@eatexcellence.ca"
+            href="/book"
             className="mt-9 inline-flex rounded-full bg-[#0F6B63] px-8 py-4 font-bold text-white transition hover:scale-[1.02] hover:bg-[#0B554F]"
           >
             Book a Call
@@ -750,7 +750,7 @@ function MobileProcess() {
         </p>
 
         <a
-          href="#contact"
+          href="/book"
           className="mt-5 inline-flex rounded-full bg-[#0F6B63] px-7 py-3.5 text-sm font-bold text-white transition hover:bg-[#0B554F]"
         >
           Book a Call
@@ -911,7 +911,7 @@ function Step({
           </p>
 
           <a
-            href="#contact"
+            href="/book"
             className="mt-6 inline-flex rounded-full bg-[#0F6B63] px-7 py-3.5 text-sm font-bold text-white transition hover:scale-[1.02] hover:bg-[#0B554F]"
           >
             Book a Call
