@@ -53,7 +53,7 @@ export default function BookPage() {
 
           {/* Quick details */}
           <div className="mx-auto mt-8 flex max-w-2xl flex-wrap items-center justify-center gap-x-6 gap-y-3 text-sm font-semibold text-[#57574f]">
-            <CallDetail>20 minutes</CallDetail>
+            <CallDetail>15 minutes</CallDetail>
             <CallDetail>No preparation needed</CallDetail>
             <CallDetail>No obligation</CallDetail>
           </div>
